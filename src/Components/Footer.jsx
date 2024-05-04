@@ -28,11 +28,13 @@ function Footer() {
 
     return (
         <footer className="bg-gray-900 text-white py-16 relative">
+            <p style={{position: 'absolute', left: '1rem', bottom: '1rem'}}>Developed by: <a href="https://dualnature.xyz/">Dualnature.xyz</a></p>
+
             <div className="container mx-auto px-4">
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                     <div className="md:col-span-2 lg:col-span-2">
                         <div className="bg-gray-800 p-8 rounded-lg text-center">
-                            <img src="/logo.svg" alt="Logo" className="h-12 w-12 mb-4" />
+                            <img src="https://i.postimg.cc/kgxNr6LG/Whats-App-Image-2024-05-04-at-15-55-57.jpg" alt="Logo" className="h-12 w-12 mb-4" />
                             <p className="text-base mb-4">Subscribe to our newsletter for the latest updates!</p>
                             <div className="flex justify-center">
                                 <input type="email" placeholder="Your email" className="px-4 py-2 w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />

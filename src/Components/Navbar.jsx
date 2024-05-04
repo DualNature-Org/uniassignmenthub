@@ -12,7 +12,7 @@ function Navbar() {
       <nav className='hidden sm:flex justify-between shadow-xl bg-fixed bg-gradient-to-r from-gray-400 to-stone-800 backdrop-blur-xl'>
         <div className='flex justify-center items-center'>
           <Link to='/'>
-            <img src="" alt="" className='w-16 h-16 bg-black mt-3 mb-3 mr-6 ml-3 md:w-18 md:h-18 rounded-full' />
+            <img src="https://i.postimg.cc/kgxNr6LG/Whats-App-Image-2024-05-04-at-15-55-57.jpg" alt="" className='w-16 h-16 bg-black mt-3 mb-3 mr-6 ml-3 md:w-18 md:h-18 rounded-full' />
           </Link>
         </div>
         <ul className="flex justify-center items-center">

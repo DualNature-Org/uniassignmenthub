@@ -69,7 +69,7 @@ function Footer() {
                 </button>
             )}
             <div className="fixed bottom-0 right-10 mb-2">
-                <a href="https://api.whatsapp.com/send?phone=8303426916" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-4 rounded-full flex items-center transition duration-300 ease-in-out">
+                <a href="https://api.whatsapp.com/send?phone=918303426916" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-4 rounded-full flex items-center transition duration-300 ease-in-out">
                     <FaWhatsapp className="text-3xl" />
                 </a>
             </div>

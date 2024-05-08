@@ -27,7 +27,7 @@ function Navbar() {
       <nav className='sm:hidden flex justify-between items-center shadow-xl text-black backdrop-blur-xl py-2 px-2'>
         <Link to="/">
           <div className='flex justify-center items-center mr-3'>
-            <img src='' alt="logo" className='w-20 h-20 md:w-32 md:h-32 rounded-full' />
+            <img src='https://i.postimg.cc/kgxNr6LG/Whats-App-Image-2024-05-04-at-15-55-57.jpg' alt="logo" className='w-20 h-20 md:w-32 md:h-32 rounded-full' />
           </div>
         </Link>
         <div>

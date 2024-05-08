@@ -53,9 +53,9 @@ function Footer() {
                     <div>
                         <h3 className="text-xl font-semibold mb-6 text-sky-500">Contact Us</h3>
                         <ul className="list-none">
-                            <li className="mb-4">123 Street Name, City, Country</li>
-                            <li className="mb-4">info@example.com</li>
-                            <li className="mb-4">+123 456 7890</li>
+                            <li className="mb-4">123 Street Name, Jaipur, India</li>
+                            <li className="mb-4">uniassignmenthub.100@gmail.com</li>
+                            <li className="mb-4">+91 8303426916</li>
                         </ul>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ function Footer() {
                 </button>
             )}
             <div className="fixed bottom-0 right-10 mb-2">
-                <a href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-4 rounded-full flex items-center transition duration-300 ease-in-out">
+                <a href="https://api.whatsapp.com/send?phone=8303426916" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-4 rounded-full flex items-center transition duration-300 ease-in-out">
                     <FaWhatsapp className="text-3xl" />
                 </a>
             </div>
